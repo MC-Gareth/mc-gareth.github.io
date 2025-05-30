@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MC Gareth&#39;s Gallery on </title>
-    <link>http://localhost:1313/</link>
+    <link>https://mc-gareth.github.io/</link>
     <description>Recent content in MC Gareth&#39;s Gallery on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mc-gareth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blurry</title>
-      <link>http://localhost:1313/blurry/</link>
+      <link>https://mc-gareth.github.io/blurry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blurry/</guid>
-        <media:content url="http://localhost:1313/blurry/IMG_8092_hu_b113419ba6a018af.jpg" type="image/jpeg"/>
+      <guid>https://mc-gareth.github.io/blurry/</guid>
+        <media:content url="https://mc-gareth.github.io/blurry/IMG_8092_hu_b113419ba6a018af.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/blurry/IMG_8092_hu_b113419ba6a018af.jpg&quot; /&gt;
+          &lt;img src=&quot;https://mc-gareth.github.io/blurry/IMG_8092_hu_b113419ba6a018af.jpg&quot; /&gt;
           &lt;p&gt;I like things to be super precise and perfectly aligned and organized.&lt;/p&gt;
         </description></item>
     <item>
       <title>Building</title>
-      <link>http://localhost:1313/buildings/</link>
+      <link>https://mc-gareth.github.io/buildings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/buildings/</guid>
-        <media:content url="http://localhost:1313/buildings/649_896_002_hu_1fb3c91be1190c2e.jpg" type="image/jpeg"/>
+      <guid>https://mc-gareth.github.io/buildings/</guid>
+        <media:content url="https://mc-gareth.github.io/buildings/649_896_002_hu_1fb3c91be1190c2e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/buildings/649_896_002_hu_1fb3c91be1190c2e.jpg&quot; /&gt;
+          &lt;img src=&quot;https://mc-gareth.github.io/buildings/649_896_002_hu_1fb3c91be1190c2e.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Landmark</title>
-      <link>http://localhost:1313/landmark/</link>
+      <link>https://mc-gareth.github.io/landmark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/landmark/</guid>
-        <media:content url="http://localhost:1313/landmark/IMG_3929_hu_dc4bd6377c8094cf.jpg" type="image/jpeg"/>
+      <guid>https://mc-gareth.github.io/landmark/</guid>
+        <media:content url="https://mc-gareth.github.io/landmark/IMG_3929_hu_dc4bd6377c8094cf.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/landmark/IMG_3929_hu_dc4bd6377c8094cf.jpg&quot; /&gt;
+          &lt;img src=&quot;https://mc-gareth.github.io/landmark/IMG_3929_hu_dc4bd6377c8094cf.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Signs</title>
-      <link>http://localhost:1313/signs/</link>
+      <link>https://mc-gareth.github.io/signs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/signs/</guid>
-        <media:content url="http://localhost:1313/signs/IMG_8618_feature_hu_d752dd0969272c7a.jpg" type="image/jpeg"/>
+      <guid>https://mc-gareth.github.io/signs/</guid>
+        <media:content url="https://mc-gareth.github.io/signs/IMG_8618_feature_hu_d752dd0969272c7a.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/signs/IMG_8618_feature_hu_d752dd0969272c7a.jpg&quot; /&gt;
+          &lt;img src=&quot;https://mc-gareth.github.io/signs/IMG_8618_feature_hu_d752dd0969272c7a.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

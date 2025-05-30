@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blurry/</loc>
+    <loc>https://mc-gareth.github.io/blurry/</loc>
   </url><url>
-    <loc>http://localhost:1313/buildings/</loc>
+    <loc>https://mc-gareth.github.io/buildings/</loc>
   </url><url>
-    <loc>http://localhost:1313/landmark/</loc>
+    <loc>https://mc-gareth.github.io/landmark/</loc>
   </url><url>
-    <loc>http://localhost:1313/signs/</loc>
+    <loc>https://mc-gareth.github.io/signs/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mc-gareth.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mc-gareth.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>https://mc-gareth.github.io/imprint/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mc-gareth.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mc-gareth.github.io/tags/</loc>
   </url>
 </urlset>

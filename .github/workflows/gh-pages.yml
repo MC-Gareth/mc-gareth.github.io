@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo them submodules
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3

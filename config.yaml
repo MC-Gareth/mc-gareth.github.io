@@ -1,0 +1,21 @@
+baseURL: "https://mc-gareth.github.io/"
+languageCode: "en-us"
+# title: "MC Gareth's Photo Gallery"
+theme: "gallery~"
+
+params:
+  title: "MCGareth Photo Gallery"
+  # description: "A minimal, elegant gallery."
+
+  socialIcons:
+    # facebook: "https://www.facebook.com/"
+    instagram: "https://www.instagram.com/mc_gareth_/"
+    # github: "https://github.com/nicokaiser/hugo-theme-gallery/"
+    # youtube: "https://www.youtube.com/"
+    email: "mailto:mcgareth@ik.me"
+    # linkedin: "https://linkedin.com/"
+
+    # Use YAML front matter for new content files
+frontmatter:
+  format: yaml
+  
